@@ -1,12 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LeetCode.dir/LeetCode10.cpp.obj"
-  "LeetCode.exe"
-  "LeetCode.exe.manifest"
-  "LeetCode.pdb"
-  "libLeetCode.dll.a"
+  "CMakeFiles/Leetcode.dir/LeetCode11.cpp.o"
+  "Leetcode"
+  "Leetcode.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
 foreach(lang CXX)
-  include(CMakeFiles/LeetCode.dir/cmake_clean_${lang}.cmake OPTIONAL)
+  include(CMakeFiles/Leetcode.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()
