@@ -56,27 +56,27 @@ include CMakeFiles/LeetCode.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/LeetCode.dir/flags.make
 
-CMakeFiles/LeetCode.dir/LeetCode9.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
-CMakeFiles/LeetCode.dir/LeetCode9.cpp.obj: ../LeetCode9.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++project\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode9.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\LeetCode9.cpp.obj -c F:\C++project\LeetCode\LeetCode9.cpp
+CMakeFiles/LeetCode.dir/LeetCode10.cpp.obj: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LeetCode10.cpp.obj: ../LeetCode10.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++project\LeetCode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LeetCode.dir/LeetCode10.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LeetCode.dir\LeetCode10.cpp.obj -c F:\C++project\LeetCode\LeetCode10.cpp
 
-CMakeFiles/LeetCode.dir/LeetCode9.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode9.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++project\LeetCode\LeetCode9.cpp > CMakeFiles\LeetCode.dir\LeetCode9.cpp.i
+CMakeFiles/LeetCode.dir/LeetCode10.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LeetCode10.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++project\LeetCode\LeetCode10.cpp > CMakeFiles\LeetCode.dir\LeetCode10.cpp.i
 
-CMakeFiles/LeetCode.dir/LeetCode9.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode9.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++project\LeetCode\LeetCode9.cpp -o CMakeFiles\LeetCode.dir\LeetCode9.cpp.s
+CMakeFiles/LeetCode.dir/LeetCode10.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LeetCode10.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++project\LeetCode\LeetCode10.cpp -o CMakeFiles\LeetCode.dir\LeetCode10.cpp.s
 
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
-"CMakeFiles/LeetCode.dir/LeetCode9.cpp.obj"
+"CMakeFiles/LeetCode.dir/LeetCode10.cpp.obj"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
 
-LeetCode.exe: CMakeFiles/LeetCode.dir/LeetCode9.cpp.obj
+LeetCode.exe: CMakeFiles/LeetCode.dir/LeetCode10.cpp.obj
 LeetCode.exe: CMakeFiles/LeetCode.dir/build.make
 LeetCode.exe: CMakeFiles/LeetCode.dir/linklibs.rsp
 LeetCode.exe: CMakeFiles/LeetCode.dir/objects1.rsp

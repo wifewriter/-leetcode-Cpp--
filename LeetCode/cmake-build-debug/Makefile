@@ -122,32 +122,32 @@ LeetCode/fast:
 	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/build
 .PHONY : LeetCode/fast
 
-LeetCode9.obj: LeetCode9.cpp.obj
+LeetCode10.obj: LeetCode10.cpp.obj
 
-.PHONY : LeetCode9.obj
+.PHONY : LeetCode10.obj
 
 # target to build an object file
-LeetCode9.cpp.obj:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/LeetCode9.cpp.obj
-.PHONY : LeetCode9.cpp.obj
+LeetCode10.cpp.obj:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/LeetCode10.cpp.obj
+.PHONY : LeetCode10.cpp.obj
 
-LeetCode9.i: LeetCode9.cpp.i
+LeetCode10.i: LeetCode10.cpp.i
 
-.PHONY : LeetCode9.i
+.PHONY : LeetCode10.i
 
 # target to preprocess a source file
-LeetCode9.cpp.i:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/LeetCode9.cpp.i
-.PHONY : LeetCode9.cpp.i
+LeetCode10.cpp.i:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/LeetCode10.cpp.i
+.PHONY : LeetCode10.cpp.i
 
-LeetCode9.s: LeetCode9.cpp.s
+LeetCode10.s: LeetCode10.cpp.s
 
-.PHONY : LeetCode9.s
+.PHONY : LeetCode10.s
 
 # target to generate assembly for a file
-LeetCode9.cpp.s:
-	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/LeetCode9.cpp.s
-.PHONY : LeetCode9.cpp.s
+LeetCode10.cpp.s:
+	$(MAKE) -f CMakeFiles\LeetCode.dir\build.make CMakeFiles/LeetCode.dir/LeetCode10.cpp.s
+.PHONY : LeetCode10.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... LeetCode
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... LeetCode9.obj
-	@echo ... LeetCode9.i
-	@echo ... LeetCode9.s
+	@echo ... LeetCode10.obj
+	@echo ... LeetCode10.i
+	@echo ... LeetCode10.s
 .PHONY : help
 
 
